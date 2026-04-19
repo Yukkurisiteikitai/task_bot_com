@@ -7,7 +7,7 @@ id: TASK-002
 priority: medium
 project: daily
 research_timer: null
-status: todo
+status: done
 toggl_entry_name: TASK-002 テスト
 toggl_project_id: ''
 type: implement
