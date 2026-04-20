@@ -7,11 +7,11 @@ id: TASK-004
 priority: medium
 project: 記録あげあげ
 research_timer: null
-status: todo
+status: done
 toggl_entry_name: TASK-004 yourselfLMの実験
 toggl_project_id: ''
 type: brainstorm
-updated: 2026-04-20 14:33
+updated: 2026-04-20 14:50
 ---
 
 # TASK-004: yourselfLMの実験
