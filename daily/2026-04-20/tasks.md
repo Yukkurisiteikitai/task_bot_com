@@ -2,6 +2,7 @@
 
 ## 今日やること
 - [ ] TASK-003: TASK-003 純粋なテスト (medium)
+- [ ] TASK-004: TASK-004 yourselfLMの実験 (medium)
 
 ## 繰り越し
 （なし）
